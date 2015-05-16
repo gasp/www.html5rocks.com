@@ -628,7 +628,7 @@ address:
   country: United Kingdom
   lat: 51.4948
   lon: -0.1467
-homepage: http://samdutton.wordpress.com
+homepage: https://simpl.info
 google: 104758683354871067458
 twitter: sw12
 email: dutton@google.com
@@ -1162,18 +1162,18 @@ name:
   given: Oskar
   family: Eriksson
 org:
-  name: DinahMoe
-  unit: Technical Director
+  name: Freelance
+  unit: Web Developer
 address:
   locality: Stockholm
   region: Stockholm
   country: Sweden
   lat: 59.31549
   lon: 18.07614
-homepage: http://www.dinahmoe.com
+homepage: http://www.oskareriksson.se
 google: 109799063033685751915
 twitter: _oskareriksson
-email: oskar@dinahmoe.com
+email: oskar@oskareriksson.se
 
 ---
 
@@ -1751,3 +1751,23 @@ homepage: http://razvancaliman.com
 google: 117174884507780256974
 twitter: razvancaliman
 email: razvan.caliman@gmail.com
+
+---
+
+id: heathermahan
+name:
+  given: Heather
+  family: Mahan
+org:
+  name: Independent
+  unit: Developer
+address:
+  locality: San Jose
+  region: California
+  country: USA
+  lat: 37.42192
+  lon: -122.087824
+homepage: https://github.com/heatheramahan
+google: 108335678119817391642
+twitter: heatheramahan
+email: heatheramahan@gmail.com
